@@ -1,0 +1,24 @@
+,Label,Author,Title,Publisher,Year,URL
+0,btyk,K Takahashi,Beta-Decay Half-Lives Calculated on the Gross Theory,"ADNDT 12, 101",1973,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=btyk
+1,mo03,P. MÃ¶ller,New calculations of gross Î²-decay properties for astrophysical applications: Speeding-up the c,"PRC 67, 055802",2003,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=mo03
+2,bqa+,P. Moller,theoretical beta decay rates,At. Data Nucl. Data Tables 66,1997,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=bqa+
+3,mo92,P MÃ¶ller,-,-,1992,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=mo92
+4,bhi+,M. Hirsch,theoretical beta decay rates,Data Nucl. Data Tables 53 165,1995,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=bhi+
+5,an06,S. Ando,Radiative neutron capture on a proton at big-bang nucleosynthesis energies,"PRC 74, 025809",2006,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=an06
+6,mb11,"Mukhamedzhanov, A.M.",Reexamination of the astrophysical S factor for the &alpha;+dâ†’6Li+&gamma; reaction,"PRC 83, 055805",2011,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=mb11
+7,fkth,thielemann,theoretical rates calculated with SMOKER,-,1987,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=fkth
+8,rpsm,T. Rauscher,NON-SMOKER Hauser Feshbach rates with Audi Wapastra masses,private communication,1999,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=rpsm
+9,ths8,"Cyburt, R.H. et al.",Theory rates from T. Rauscher as part of REACLIB V1.0 release,ApJS (189) 240,2010,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=ths8
+10,dc11,"Davids, B.","THE INFLUENCE OF UNCERTAINTIES IN THE 15 O(&alpha;, &gamma; ) 19 Ne REACTION RATE ON MODELS OF TYPE I X-RAY BURSTS","ApJ 735, 40",2011,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=dc11
+11,rath,"Rauscher, T",NON-SMOKER Hauser-Feshbach w/ FRDM Mass Input,"ADNDT 75, 1, p1-351",2000,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=rath
+12,ma10,Matic et al.,"High-precision ( p,t) reaction to determine 25Al( p,&gamma;)26Si reaction rates","PRC 82, 025807",2010,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=ma10
+13,laur,L Van Wormer,Reaction Rates and Reaction Sequences in the rp-process,"ApJ 432, 326-350",1994,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=laur
+14,hg95,"Herndl, H.",Proton capture reaction rates in the rp process,"PRC 52, 1078",1995,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=hg95
+15,nfis,Fisker J.L.,Shell-model calculation with nuclear masses from newmass tables,"private comm. &amp; ADNDT 79, 241",2001,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=nfis
+16,thra,T. Rauscher,NON-SMOKER Hauser-Feshbach w/ ETSFIQ Mass Input,"ADNDT 75, 1, p1-351",2000,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=thra
+17,wien,Forstner,"Thermonuclear reaction rate of Ni56(p,&gamma;)Cu57 and Cu57(p,&gamma;)Zn58",Physics Review C 64 045801,2001,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=wien
+18,rk12,"Rauscher, T","Astrophysical analysis of the measurement of (&alpha;,&gamma;) and (&alpha;,n) cross sections of 169Tm","PRC 86, 015804",2012,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=rk12
+19,pkrF,"Panov, I.V.",FRDM Neutron-induced astrophysical reaction rates,"Astron. Astrophys. 513, A69",2010,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=pkrF
+20,ua08,"Ugalde, C.","Thermonuclear rate for the <sup>19</sup>F(&alpha;,p)<sup>22</sup>Ne reaction at stellar temperatures","PRC 77, 035801",2008,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=ua08
+21,mv09,A. Matic et al.,"High-precision (p,t) reaction measurement to determine 18Ne(a,p)21Na reaction rates","PRC 80, 055804",2009,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=mv09
+22,ol11,"Oginni, B.H.","Theoretical evaluation of the reaction rates for 26Al(n,p)26Mg and 26Al(n,a)23Na","PRC 83, 025802",2011,https://reaclib.jinaweb.org/labels.php?action=viewLabel&label=ol11
